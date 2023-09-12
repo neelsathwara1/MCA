@@ -29,7 +29,7 @@ int main()
             return 1;
             
         }
-        else if(val < mid)
+        else if(val < arr[mid])
         {
             e=mid-1;
         }
